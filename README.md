@@ -1,6 +1,5 @@
 # Homework 4 - Hard coding
 
-![alt text](https://scontent-fco2-1.xx.fbcdn.net/v/t1.6435-9/p640x640/184205866_309950770525058_7072329262818108856_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=NV-BDW8fI68AX-nKfZT&_nc_ht=scontent-fco2-1.xx&oh=d9a93541fee5ec4b8999dcaac221d921&oe=61AE1128)
 
 # VERY VERY IMPORTANT!
 
