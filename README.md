@@ -1,3 +1,6 @@
+## Content description
+1. __`AudioSignals.ipynb`__: 
+	> This file contains the jupyter notebook with our solution.
 # Homework 4 - Hard coding
 
 
